@@ -1,6 +1,6 @@
 # Projeto Profile Feed
 
-Aplicalção React desenvolvida durante o segundo módulo do curso MBA FullStack - Rocketseat + Faculdade Sirius
+Aplicação React desenvolvida durante o segundo módulo do curso MBA FullStack - Rocketseat + Faculdade Sirius
 
 ![App Screenshot](./src/assets/screenshot_01.png)
 
